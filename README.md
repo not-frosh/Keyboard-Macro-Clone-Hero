@@ -20,6 +20,7 @@ the code is completely free to use and modifiable. if you want to make your own 
 
 extra considerations.
 if you prefer to use the executable directly it is possible that windows detects it as malicious software but it is not, it detects it by the fact that it reads the inputs.
+to let windows run the program you must enter windows defender or antivurus and add a rule to let keyboard_macro.exe run.
 
 I will not release the original source code of the executable until I add the last function I have in mind for the program.
 
