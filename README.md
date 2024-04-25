@@ -7,9 +7,13 @@ inside this repository you will find 2 files 1 is executable to get and use with
 
 the executable comes with 5 options 
 -start macro
+
 -stop the macro
+
 -set the keys
+
 -show current keys
+
 -change language
 
 the executable comes with the default keys of the clone hero. if you would use another key combination you should set them. and don't worry the program generates a file called set-up_keys.ini where it will save your configuration. this file generates itself if it is missing, so if you delete it, don't worry, you just have to put your keys back in again.
@@ -26,4 +30,5 @@ to let windows run the program you must enter windows defender or antivurus and 
 I know that by license of free use they are not obliged but it would be nice that if they use my code to make a better version there would be a mention if they would publish it there
 
 Link to pyinstaller: https://pyinstaller.org/en/stable/index.html
+
 Link to my Paypal: https://www.paypal.com/paypalme/notfrosh?country.x=CL&locale.x=es_XC
